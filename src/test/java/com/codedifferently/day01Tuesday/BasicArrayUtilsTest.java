@@ -8,6 +8,7 @@ public class BasicArrayUtilsTest {
     public void getFirstElementTest() {
         // Given
         String[] inputArray = {"The", "quick", "brown"};
+
         String expected = "The";
 
         // When
